@@ -156,7 +156,7 @@ export const SkillsInfo = [
       img: newtonschoolLogo,
       role: "Frontend Intern",
       company: "Newton School",
-      date: "September 2021 - August 2022",
+      date: "September 2024 - August 2025",
       desc: "Worked as a Frontend Developer Intern, designing and implementing scalable UI components and responsive websites using HTML, CSS, JavaScript, Bootstrap, and Material UI. Collaborated with the design team to translate wireframes and prototypes from Figma into interactive, user-friendly web pages.",
       skills: [
         "HTML",
